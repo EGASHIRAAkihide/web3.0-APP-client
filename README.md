@@ -7,3 +7,8 @@
 
 - React: v18.0.0
 - ethers: v5.6.4
+
+## references
+
+- [Ethereum Unit Converter](https://eth-converter.com/)
+- [Etherscan](https://etherscan.io/)
